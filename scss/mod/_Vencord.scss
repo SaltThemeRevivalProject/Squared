@@ -1,6 +1,11 @@
 .vc-addon-card,
 .vc-error-card,
 #vc-notification-container .vc-notification-root,
-.vc-plugins-badge {
+.vc-plugins-badge,
+.vc-switch-container {
 	border-radius: var(--squared-radius);
+}
+
+.vc-switch-slider > rect {
+	rx: var(--squared-radius);
 }

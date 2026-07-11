@@ -48,3 +48,8 @@
 .wrapper__44b0c circle {
 	display: none;
 }
+
+//Toggle circle
+.thumb_a28278 > rect {
+	rx: var(--squared-radius);
+}
