@@ -1,7 +1,7 @@
 // Copyright (c) 2020 DiscordStyles
 // MIT license
 // https://github.com/DiscordStyles/RadialStatus
-@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
+@import url("https://discordstyles.github.io/RadialStatus/RadialStatus.css");
 
 // RadialStatus configuration
 :root {
@@ -20,4 +20,12 @@
 	--rs-invisible-color: var(--rs-offline-color); // Colour for invisible status - Note: this will only show for your own invisibility
 	--rs-phone-color: var(--rs-online-color); // Colour of the ring and phone icon when a user is on their phone |
 	--rs-phone-visible: none; // Visibility of the phone icon next to a users avatar. | block = visible | none = hidden
+}
+
+// Fix typing indicator bug
+// The theme should grey out user profile picture while typing,
+// but instead the square grey overlay is weirdly offset
+.pointerEvents__44b0c {
+	x: 0 !important;
+	y: 0 !important;
 }
