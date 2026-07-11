@@ -26,14 +26,14 @@
 
 
 # Squared Discord Theme
-[![Buy me a coffee on ko-fi][shield-donate]][ko-fi]
+[![Buy the original creator a coffee on ko-fi][shield-donate]][ko-fi]
 [![CSS GitHub downloads][shield-css-dl]][release-css-gh]
 [![Asar GitHub downloads][shield-asar-dl]][release-rp-gh]
 [![Total repository size][shield-repo-size]][github]
 
 **_Squares all circles in Discord with adjustable corner roundness._**
 
-This is a fork of the [original](https://github.com/SaltThemeRevivalProject/Squared) by Saltssaumure which is currently abandoned.
+This is a fork of the [original](https://github.com/MiniDiscordThemes/Squared) by Saltssaumure which is currently abandoned.
 
 |                  Main screen                   |                  User settings                   |
 | :--------------------------------------------: | :----------------------------------------------: |
@@ -103,7 +103,7 @@ To edit the following variables, follow the instructions for your client mod.
 
 1. Enable `Automatically Apply Quick CSS` in `Settings` > `Replugged` > `General`.
 2. Open `Settings` > `Replugged` > `Quick CSS`.
-3. Copy and paste lines 15-19 of [`piOS.theme.css`][.theme.css].
+3. Copy and paste lines 15-19 of [`Squared.theme.css`][.theme.css].
 4. Edit the variable values and save.
 </details>
 
@@ -113,11 +113,11 @@ To edit the following variables, follow the instructions for your client mod.
 
 #### Local
 1. `Open Themes Folder` in `Settings` > `Vencord` > `Themes` > `Local Themes`
-2. Open `piOS.theme.css` with your favourite text editor.
+2. Open `Squared.theme.css` with your favourite text editor.
 3. Edit the variable values and save.
 #### Online
 1. `Enable Custom CSS` in `Settings` > `Vencord` > `Vencord` and click `Open QuickCSS File`.
-2. Copy and paste lines 15-19 of [`piOS.theme.css`][.theme.css].
+2. Copy and paste lines 15-19 of [`Squared.theme.css`][.theme.css].
 3. Edit the variable values.
 </details>
 
@@ -134,4 +134,4 @@ This theme is licensed under the [MIT license][license].
 
 ## Questions or suggestions?
 - Post [an issue][issues] on GitHub.
-- Post in `#theme-support` on [my support server][discord].
+- Post in the squared channel on [the Discord server][discord].
