@@ -1,3 +1,5 @@
+@use "../variables" as *;
+
 $pathpairs: (
 	// Radio options
 	".radioBar__88a69 div:first-of-type svg:not([class])":
@@ -69,5 +71,11 @@ $pathpairs: (
 	".svg__4f569.roleDot_c19a55":
 		"M 0 0 H 20 V 20 H 0 Z",
 	".svg__4f569.roleDotLeft__703b9":
-		"M 0 0 H 20 V 20 H 0 Z"
+		"M 0 0 H 20 V 20 H 0 Z",
+	// Profile widget add icons
+	".addButton__4a011":
+		$squared-add-icon-path,
+	// Nitro styles add icons
+	".overlayIcon__4e9aa":
+		$squared-add-icon-path
 );
