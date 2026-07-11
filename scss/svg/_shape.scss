@@ -1,8 +1,7 @@
 $r: (
 	".radioIconForeground-2BMavi",
 	// Radio options
-	".bar_c44edb",
-	// Sticker slot boost tier
+	".bar_c44edb" // Sticker slot boost tier
 );
 
 $rx: (
@@ -14,8 +13,7 @@ $rx: (
 	// Stage moderator badge
 	".noItemsIcon_e335a7 rect",
 	// Subscriptions no items icon
-	".noItemsIcon__70151 rect",
-	// Subscriptions no items icon
+	".noItemsIcon__70151 rect" // Subscriptions no items icon
 );
 
 @each $selector in $r {

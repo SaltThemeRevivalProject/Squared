@@ -1,17 +1,17 @@
 // Scrollbars
 
 :is(
-		.auto_c8b5c7,
-		.auto_d125d2,
-		.auto__99f8c,
-		.previewTextArea_d9be46,
-		.scrollbarDefault__506b3,
-		.scrollbarGhost__506b3,
-		.scrollbarGhostHairline__506b3,
-		.thin_d125d2,
-		.thin__99f8c,
-		.webkit__8d35a
-	) {
+	.auto_c8b5c7,
+	.auto_d125d2,
+	.auto__99f8c,
+	.previewTextArea_d9be46,
+	.scrollbarDefault__506b3,
+	.scrollbarGhost__506b3,
+	.scrollbarGhostHairline__506b3,
+	.thin_d125d2,
+	.thin__99f8c,
+	.webkit__8d35a
+) {
 	&::-webkit-scrollbar-thumb,
 	&::-webkit-scrollbar-track {
 		border-radius: var(--squared-radius);
