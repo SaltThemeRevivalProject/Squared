@@ -128,8 +128,8 @@ This theme is licensed under the [MIT license][license].
 
 ## Credits
 ### Themes
-[rs]:               https://github.com/DiscordStyles/RadialStatus
-- [RadialStatus][rs] by [DiscordStyles](https://github.com/DiscordStyles) ([Gibbu](https://github.com/Gibbu)) - MIT license
+[rs]:               https://github.com/SaltThemeRevivalProject/RadialStatus
+- [RadialStatus][rs] by [DiscordStyles](https://github.com/DiscordStyles), using the [SaltThemeRevivalProject](https://github.com/SaltThemeRevivalProject) fork. ([Gibbu](https://github.com/Gibbu)) - MIT license
 
 
 ## Questions or suggestions?
