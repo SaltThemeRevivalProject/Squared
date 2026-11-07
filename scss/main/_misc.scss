@@ -1,14 +1,14 @@
-.theme-dark .imageLoading__1859b,
-.theme-light .imageLoading__1859b {
+.theme-dark .imageLoading_Uc0G8h,
+.theme-light .imageLoading_Uc0G8h {
 	background-image: none;
 }
 
 // Emoji picker
-.sprite__04eed {
-	&.spriteColored__04eed {
+.sprite_SjG8Ug {
+	&.spriteColored_SjG8Ug {
 		background-image: url("https://saltthemerevivalproject.github.io/Squared/img/emoji-color.avif");
 	}
-	&.spriteGreyscale__04eed {
+	&.spriteGreyscale_SjG8Ug {
 		-webkit-mask-image: url("https://saltthemerevivalproject.github.io/Squared/img/emoji-greyscale.avif");
 		mask-image: url("https://saltthemerevivalproject.github.io/Squared/img/emoji-greyscale.avif");
 		border-radius: var(--squared-radius);
@@ -16,24 +16,24 @@
 }
 
 // Authorised apps permissions check
-.permissionCheckmark__92059 {
+.permissionCheckmark_-8GDCL {
 	background-image: url("data:image/svg+xml,%3Csvg height='18' width='18' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath d='m0 0h18v18h-18z'/%3E%3Cpath d='M 14 14 h -10 v -10 h 8 v -2 h -10 v 14 h 14 v -7.75 h -2 z m -7.5675 -6.94 l -1.0575 1.065 l 3.375 3.375 l 7.5 -7.5 l -1.0575 -1.065 l -6.4425 6.4425 z' fill='%233ba55c'/%3E%3C/g%3E%3C/svg%3E");
 }
 
 // Appearance selected theme inner circle
-.checkmarkCircle__36dee {
+.checkmarkCircle_IhyaN_ {
 	circle {
 		display: none;
 	}
 
-	.checkmark__36dee {
+	.checkmark_IhyaN_ {
 		d: path("M 2 2 V 22 H 22 V 2 Z M 10 17 L 5 12 L 6.41 10.59 L 10 14.17 L 17.59 6.58 L 19 8 L 10 17 Z");
 	}
 }
 
 // Subscriptions no items icon
-.noItemsIcon_e335a7,
-.noItemsIcon__70151 {
+.noItemsIcon_4VCFtm,
+.noItemsIcon_NedsCW {
 	circle {
 		display: none;
 	}
@@ -45,11 +45,11 @@
 }
 
 // User profile status light theme
-.wrapper__44b0c circle {
+.wrapper_XpIUHy circle {
 	display: none;
 }
 
 //Toggle circle
-.thumb_a28278 > rect {
+.thumb_9AraPt > rect {
 	rx: var(--squared-radius);
 }
